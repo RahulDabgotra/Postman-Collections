@@ -1,2 +1,2 @@
-# Postman-s-Collections
-Postman's Collections
+# Postman-Collections
+Postman Collections
